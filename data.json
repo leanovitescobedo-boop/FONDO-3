@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T03:43:24.078500+00:00",
+  "generated_at": "2026-10-22T04:42:07.878391+00:00",
   "indicators": {
     "sp500": {
       "value": 7757.169921875,
@@ -555,6 +555,8 @@
     }
   },
   "errors": {
+    "vix": "The read operation timed out",
+    "us10y": "The read operation timed out",
     "sbs": "Pendiente de integración verificada con fuente SBS/Profuturo"
   }
 }
