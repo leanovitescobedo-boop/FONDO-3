@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T19:36:02.609053+00:00",
+  "generated_at": "2026-10-24T20:38:00.501791+00:00",
   "indicators": {
     "sp500": {
       "value": 7623.68017578125,
@@ -534,29 +534,12 @@
           "value": 62.0099983215332
         }
       ]
-    },
-    "inflation": {
-      "value": 3.0875,
-      "date": "2026-09-01",
-      "src": "BCRP · Sep.2026",
-      "h": []
-    },
-    "gdp": {
-      "value": 3.1625,
-      "date": "2026-09-01",
-      "src": "BCRP · Sep.2026",
-      "h": []
-    },
-    "fx": {
-      "value": 3.3975,
-      "date": "2026-09-01",
-      "src": "BCRP · Sep.2026",
-      "h": []
     }
   },
   "errors": {
     "vix": "The read operation timed out",
     "us10y": "The read operation timed out",
+    "bcrp": "Expecting value: line 1 column 1 (char 0)",
     "sbs": "Pendiente de integración verificada con fuente SBS/Profuturo"
   }
 }
